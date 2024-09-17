@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/.vscode
+/.idea
+/.history
+.php-cs-fixer.cache
+.php-cs-fixer.php
